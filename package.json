@@ -1,0 +1,25 @@
+{
+  "name": "blessed-curl",
+  "version": "0.1.0",
+  "description": "A curses-like frontend to curl, built with the blessed widget toolkit.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seemikehack/blessed-curl.git"
+  },
+  "keywords": [
+    "curl",
+    "curses",
+    "ncurses",
+    "terminal"
+  ],
+  "author": "Michael Atkinson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/seemikehack/blessed-curl/issues"
+  },
+  "homepage": "https://github.com/seemikehack/blessed-curl#readme"
+}
